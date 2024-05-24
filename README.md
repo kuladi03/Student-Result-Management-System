@@ -54,9 +54,6 @@ The Student Result Management System is a web-based application developed to man
 - **Student Login:**
   - Students can log in using their name and roll number (provided by the teacher) to view their individual results.
 
-## Screenshots
-
-_Insert screenshots of the application here._
 
 ## Contributing
 
